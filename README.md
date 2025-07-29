@@ -1,8 +1,3 @@
-<style>
-td, th {
-    
-}
-</style>
 
 # MNIST audio classification using Pytorch
 
@@ -80,3 +75,37 @@ The following table shows the model architecture.
 | Loss                  | 0.000139 | 0.0613                        | 0.0458 |
 
 > Note: Effective training duration was 7 epochs — best validation at epoch 4, with early stopping patience set to 3 and the accuracy was 0.991.
+
+##### Training Statistics
+
+<figure style="text-align: center;">
+  <img
+    src="./images/train_loss_readme.png"
+    alt="Training loss"
+    width="60%" />
+  <figcaption>Training loss</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img
+    src="./images/train_acc_readme.png"
+    alt="Training accuracy"
+    width="60%" />
+  <figcaption>Training accuracy</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img
+    src="./images/val_loss_readme.png"
+    alt="Validation loss"
+    width="60%" />
+  <figcaption>Validation loss</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img
+    src="./images/val_acc_readme.png"
+    alt="Validation accuracy"
+    width="60%" />
+  <figcaption>Validation accuracy</figcaption>
+</figure>
