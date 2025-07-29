@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 lightning_logs
 .cenv
+models
+tb_logs
+**.wav
