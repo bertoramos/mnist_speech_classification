@@ -85,7 +85,7 @@ The following table shows the model architecture.
     src="./images/cnn/train_loss_readme.png"
     alt="Training loss"
     width="60%" />
-  <figcaption>Training loss</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Training loss</figcaption>
 </figure>
 
 <figure style="text-align: center;">
@@ -93,7 +93,7 @@ The following table shows the model architecture.
     src="./images/cnn/train_acc_readme.png"
     alt="Training accuracy"
     width="60%" />
-  <figcaption>Training accuracy</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Training accuracy</figcaption>
 </figure>
 
 <figure style="text-align: center;">
@@ -101,7 +101,7 @@ The following table shows the model architecture.
     src="./images/cnn/val_loss_readme.png"
     alt="Validation loss"
     width="60%" />
-  <figcaption>Validation loss</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Validation loss</figcaption>
 </figure>
 
 <figure style="text-align: center;">
@@ -109,7 +109,7 @@ The following table shows the model architecture.
     src="./images/cnn/val_acc_readme.png"
     alt="Validation accuracy"
     width="60%" />
-  <figcaption>Validation accuracy</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Validation accuracy</figcaption>
 </figure>
 
 ## CNN + LSTM model
@@ -185,7 +185,7 @@ The following table shows the model architecture.
     src="./images/lstm/train_loss_readme.png"
     alt="Training loss"
     width="60%" />
-  <figcaption>Training loss</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Training loss</figcaption>
 </figure>
 
 <figure style="text-align: center;">
@@ -193,7 +193,7 @@ The following table shows the model architecture.
     src="./images/lstm/train_acc_readme.png"
     alt="Training accuracy"
     width="60%" />
-  <figcaption>Training accuracy</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Training accuracy</figcaption>
 </figure>
 
 <figure style="text-align: center;">
@@ -201,7 +201,7 @@ The following table shows the model architecture.
     src="./images/lstm/val_loss_readme.png"
     alt="Validation loss"
     width="60%" />
-  <figcaption>Validation loss</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Validation loss</figcaption>
 </figure>
 
 <figure style="text-align: center;">
@@ -209,5 +209,5 @@ The following table shows the model architecture.
     src="./images/lstm/val_acc_readme.png"
     alt="Validation accuracy"
     width="60%" />
-  <figcaption>Validation accuracy</figcaption>
+  <figcaption style="font-size: 1.2em; margin-top: 8px;">Validation accuracy</figcaption>
 </figure>
