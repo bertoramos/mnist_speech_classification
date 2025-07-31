@@ -2,5 +2,7 @@
 lightning_logs
 .cenv
 models
+models-lstm
 tb_logs
+tb_logs_lstm
 **.wav
